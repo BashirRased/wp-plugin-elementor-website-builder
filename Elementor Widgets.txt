@@ -1,0 +1,127 @@
+Elementor Widgets List:
+=======================
+01. Basic Category (Free)
+    1.1. Inner Section 
+    1.2. Heading (ID: heading)
+    1.3. Image (ID: image)
+    1.4. Text Editor (ID: text-editor)
+    1.5. Video (ID: video)
+    1.6. Button (ID: button)
+    1.7. Divider (ID: divider)
+    1.8. Spacer (ID: spacer)
+    1.9. Google Maps (ID: google_maps)
+    1.10. Icon (ID: icon)
+
+02. Pro Category (Paid)
+    2.1. Posts
+    2.2. Portfolio
+    2.3. Gallery
+    2.4. Form
+    2.5. Login
+    2.6. Slides
+    2.7. Nav Menu
+    2.8. Animated Headline
+    2.9. Price List
+    2.10. Price Table
+    2.11. Flip Box
+    2.12. Call to Action
+    2.13. Media Carousel
+    2.14. Testimonial Carousel
+    2.15. Countdown
+    2.16. Share Buttons
+    2.17. Blockquote
+    2.18. Lottie
+    2.19. Facebook Button
+    2.20. Facebook Comments
+    2.21. Facebook Embed
+    2.22. Facebook Page
+    2.23. Hotspot
+    2.24. PayPal Button
+    2.25. Code Highlight
+    2.26. Video Playlist
+    2.27. Template    
+
+03. General Category (Free)
+    3.1. Image Box (ID: image-box)
+    3.2. Icon Box (ID: icon-box)
+    3.3. Star Rating (ID: star-rating)
+    3.4. Image Carousel (ID: image-carousel)
+    3.5. Basic Gallery (ID: image-gallery)
+    3.6. Icon List (ID: icon-list)
+    3.7. Counter (ID: counter)
+    3.8. Progress Bar (ID: progress)
+    3.9. Testimonial (ID: testimonial)
+    3.10. Tabs (ID: tabs)
+    3.11. Accordion (ID: accordion)
+    3.12. Toggle (ID: toggle)
+    3.13. Social Icons (ID: social-icons)
+    3.14. Alert (ID: alert)
+    3.15. SoundCloud (ID: audio)
+    3.16. Shortcode (ID: shortcode)
+    3.17. HTML (ID: html)
+    3.18. Menu Anchor (ID: menu-anchor)
+    3.19. Sidebar (ID: sidebar)
+    3.20. Read More (ID: read-more)
+    3.21. Text Path (ID: text-path)
+
+04. Site Category (Paid)
+    4.1. Nav Menu
+    4.2. Table of Contents
+    4.3. Search Form
+    4.4. Author Box
+    4.5. Post Comments
+    4.6. Post Navigation
+    4.7. Post Info
+    4.8. Sitemap
+    4.9. Breadcrumbs
+    4.10. Menu Cate
+    4.11. Site Logo
+    4.12. Site Title
+    4.13. Page Title
+    4.14. Post Title
+    4.15. Post Excerpt
+    4.16. Featured Image
+    4.17. Archive Title
+    4.18. Archive Posts
+
+05. WooCommerch Category (Paid)
+    5.1. Archive Products
+    5.2. Archive Description
+    5.3. Products
+    5.4. WooCommerce Breadcrumbs
+    5.5. Custom Add To Cate
+    5.6. WooCommerce Pages
+    5.7. Product Categories
+    5.8. Menu Cart
+    5.9. Product Title
+    5.10. Product Images
+    5.11. Product Price
+    5.12. Add to Cart
+    5.13. Product Rating
+    5.14. Product Stock
+    5.15. Product Meta
+    5.16. Shrot Description
+    5.17. Product Data Tabs
+    5.18. Additional Information
+    5.19. Product Related
+    5.20. Upsells
+
+06. WordPress Category (Free)
+    6.1. Pages (ID: wp-widget-pages)
+    6.2. Calendar (ID: wp-widget-pages)
+    6.3. Archives (ID: wp-widget-pages)
+    6.4. Audio (ID: wp-widget-pages)
+    6.5. Image (ID: wp-widget-pages)
+    6.6. Gallery (ID: wp-widget-pages)
+    6.7. Video (ID: wp-widget-pages)
+    6.8. Meta (ID: wp-widget-pages)
+    6.9. Search (ID: wp-widget-pages)
+    6.10. Text (ID: wp-widget-pages)
+    6.11. Categories (ID: wp-widget-pages)
+    6.12. Recent Posts (ID: wp-widget-pages)
+    6.13. Recent Comments (ID: wp-widget-pages)
+    6.14. RSS (ID: wp-widget-pages)
+    6.15. Tag Cloud (ID: wp-widget-pages)
+    6.16. Navigation Menu (ID: wp-widget-pages)
+    6.17. Custom HTML (ID: wp-widget-pages)
+    6.18. Block (ID: wp-widget-pages)

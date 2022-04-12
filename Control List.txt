@@ -1,0 +1,53 @@
+Data Controls:
+==============
+01. Text
+02. Number
+03. Textarea
+04. WYSIWYG
+05. Code
+06. Hidden
+07. Switcher
+08. Popover Toggle
+09. Select
+10. Select2 
+11. Choose
+12. Color
+13. Icon
+14. Font
+15. Date-Time
+16. Gallery
+17. Repeater
+18. Entrance Animation
+19. Exit Animation
+20. Hover Animation
+
+MultiValue Controls:
+====================
+01. URL
+02. Media
+03. Image Dimensions
+04. Icons Control
+05. Text Shadow
+
+Unit Controls:
+==============
+01. Slider
+02. Dimensions
+
+UI Controls:
+============
+01. Heading
+02. Raw HTML
+03. Button
+04. Divider
+05. Deprecated Notice
+
+Group Controls:
+===============
+01. Typography
+02. Text Shadow
+03. Box Shadow
+04. Border
+05. Background
+06. Image Size
+07. CSS Filter
