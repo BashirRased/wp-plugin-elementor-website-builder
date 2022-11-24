@@ -4,7 +4,7 @@ $this->add_control(
     'tp_title_tag',
     [
         'label' => esc_html__('Title HTML Tag', 'tpcore'),
-        'type' => Controls_Manager::CHOOSE,
+        'type' => Controls_Manager::SELECT,
         'options' => [
             'h1' => [
                 'title' => esc_html__('H1', 'tpcore'),
