@@ -14,15 +14,11 @@ $this->add_control(
 ?>
 
 <?php
-
 if ( !empty($settings['tp_image']['url']) ) {
-
-    $tp_image = !empty($settings['tp_image']['id']) ? wp_get_attachment_image_url( $settings['tp_image']['id'], $settings['tp_image_size_size']) : $settings['tp_image']['url'];
+    $tp_image = !empty($settings['tp_image']['id']) ? wp_get_attachment_image_url( $settings['tp_image']['id']) : $settings['tp_image']['url'];
 
     $tp_image_alt = get_post_meta($settings["tp_image"]["id"], "_wp_attachment_image_alt", true);
-
 }
-
 ?>
 
 <?php if ($settings['tp_image']['url'] || $settings['tp_image']['id']) : ?>

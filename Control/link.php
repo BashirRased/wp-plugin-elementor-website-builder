@@ -1,12 +1,12 @@
 <?php
 
-// Content Link
+// link_id
 $this->add_control(
-    'unique_id',
+    'link_id',
     [
-        'label' => esc_html__('Link', 'text-domain'),
-        'type' => \Elementor\Controls_Manager::URL,
-        'placeholder' => esc_html__('Paste URL or Type', 'text-domain'),
+        'label' => esc_html__( 'Link', 'rb-addons-for-elementor' ),
+        'type' => Controls_Manager::URL,
+        'options' => [ 'url', 'is_external', 'nofollow' ],
         'default' => [
             'url' => '',
             'is_external' => true,

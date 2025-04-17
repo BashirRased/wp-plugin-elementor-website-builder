@@ -13,4 +13,3 @@ Content Tabs
 11. Drop Cap
 12. Columns
 13. Columns Gap
-14. 

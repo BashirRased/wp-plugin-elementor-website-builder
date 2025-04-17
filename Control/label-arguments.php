@@ -3,17 +3,12 @@
 'type' => \Elementor\Controls_Manager::TEXT,
 
 'label' => esc_html__( 'Control Label', 'textdomain' ),
-
 'title' => esc_html__( 'Control Label', 'textdomain' ),
-
 'description' => esc_html__( 'Short control description.', 'textdomain' ),
-
 'default' => esc_html__( 'Control Label', 'textdomain' ),
 
 'show_label' => true,
-
 'label_block' => false,
-
 'separator' => 'after', // default, before, after, none
 
 'condition' => [
